@@ -1,5 +1,6 @@
 # Project with code example for the book "Ultimate CSS referece"
 
+Application inspired by code examples from the book [The Ultimate CSS Reference: The Ultimate Reference](https://www.amazon.com/CSS-Ultimate-Reference-Tommy-Olsson/dp/0980285852)
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
